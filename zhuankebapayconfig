@@ -10,6 +10,7 @@
 "stopLink":"http://qm.qq.com/cgi-bin/qm/qr?k=utdPpVdaH04rxRru_qsyn1UPuaxmBgtO",
 "useTime":"30",
 "appStoreVersion":"4.2",
-"appSignVersion":"1.1",
+"appSignVersion":"1.2",
+"appSignVersionInfo":"新版特性：1，修复打开软件提示关闭联网重新打开。2，修复偶尔打开帖子没内容需要刷新才显示的问题",
 "appSignDownloadLink":"https://app.iocydia.com/appIndex?id=91"
 }
